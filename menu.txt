@@ -1,0 +1,17 @@
+                            IRC COMMANDS
+Below are the list of commands
+
+$menu                             : To print menu
+$create room_name                 : To create a new room
+$join room_name                   : To join a room
+$listAll                          : To list all the available rooms and clients 
+$list room_name                   : To list members of a room
+$switch                           : To switch rooms
+$private_message username message : To send a direct personal message
+$send_room room_name message      : To send a message to specified rooms
+$broadcast_everyone message       : To broadcast message to everyone
+$leave                            : To leave current room
+$bye                              : To exit
+
+If you are in any room you can send message directly
+Enter $command_name along with the paramerters mentioned.
